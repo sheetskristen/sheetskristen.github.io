@@ -1,5 +1,5 @@
 
-## About
+## about
 
 I am a first year MS student in Computational Linguistics at Brandeis University.
 

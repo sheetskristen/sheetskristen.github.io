@@ -23,6 +23,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | Natural languages:  | English, German, French  |
 
 ## experience
+
 | Role  | Year   |
 |---------|------|
 | Research Assisant, PI: James Pustejovsky, *Brandeis University* <br> - Researches correlations in semantic types for systematic polysemy within a Generative Lexicon framework. - Designs human intellegence tasks to collect annotation data for use in training machine learning models. | 2018 to *present* |

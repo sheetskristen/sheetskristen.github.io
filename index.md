@@ -14,7 +14,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | B.A. in Linguistics *University of California, Santa Cruz*  | 2014  |
 
 ## skills
-| | |
+|Type | Skills |
 |---|---|
 | Programming:  |  Python, Java |
 | Data, toolkits, scripting:  | SQL, NLTK, Linux environments and shell scripting, HTML, R  |

@@ -28,9 +28,6 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 | Course  | Term   |
 |---------|------|
-| Linguistic Typology, *Brandeis University* 
-Prof. Lotus Goldberg |  Spring 2019 |
-| Syntactic Theory,  *Brandeis University*  
-Prof. Lotus Goldberg | Fall 2018  |
-| Syntactic Structures, *University of California, Santa Cruz* 
-Prof. Maziar Toosarvandani| Spring 2014  |
+| Linguistic Typology, *Brandeis University*, Prof. Lotus Goldberg |  Spring 2019 |
+| Syntactic Theory,  *Brandeis University*, Prof. Lotus Goldberg | Fall 2018  |
+| Syntactic Structures, *University of California, Santa Cruz*, Prof. Maziar Toosarvandani| Spring 2014  |

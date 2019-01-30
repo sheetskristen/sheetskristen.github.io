@@ -27,7 +27,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 ## projects 
 | Project  |  Year |
 |------|-------|
-| Classifying the Alt-Right (with Samuel Haymann), *Brandeis University* <br> I created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
+| Classifying the Alt-Right (with Samuel Haymann), *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
 ## education
 
 | Degree  |  Year |

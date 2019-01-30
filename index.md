@@ -8,14 +8,10 @@ I received my BA in Linguistics from UC Santa Cruz. After graduating, I spent se
 You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAUF55bfVEADMqCX-u/view?usp=sharing). 
 
 ## education
-| Degree | Year|
-|---|---|
 |  M.S. in Computational Linguistiscs *Brandeis University* | 2020 (*expected*)   |
 | B.A. in Linguistics *University of California, Santa Cruz*  | 2014  |
 
 ## skills
-|Type | Skills |
-|---|---|
 | Programming:  |  Python, Java |
 | Data, toolkits, scripting:  | SQL, NLTK, Linux environments and shell scripting, HTML, R  |
 | Natural languages:  | English, German, French  |

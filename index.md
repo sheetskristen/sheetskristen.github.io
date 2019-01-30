@@ -11,8 +11,8 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 | Degree  |  Year |
 |------|-------|
-|  M.S. in Computational Linguistiscs *Brandeis University* | 2020 (*expected*)   |
-| B.A. in Linguistics *University of California, Santa Cruz*  | 2014  |
+|  M.S. in Computational Linguistics, *Brandeis University* | 2020 (*expected*)   |
+| B.A. in Linguistics, *University of California, Santa Cruz*  | 2014  |
 
 ## skills
 
@@ -22,6 +22,11 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | Data, toolkits, scripting:  | SQL, NLTK, Linux environments and shell scripting, HTML, R  |
 | Natural languages:  | English, German, French  |
 
-## teaching
-
 ## experience
+
+## teaching assistantships
+| Course  | Term   |
+|---------|------|
+| Linguistic Typology, *Brandeis University*  |  Spring 2019 |
+| Syntactic Theory,  *Brandeis University*  | Fall 2018  |
+| Syntactic Structures, *University of California, Santa Cruz*  | Spring 2014  |

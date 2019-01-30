@@ -9,11 +9,14 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 ## education
 
+|   |   |
+|---|---|
 |  M.S. in Computational Linguistiscs *Brandeis University* | 2020 (*expected*)   |
 | B.A. in Linguistics *University of California, Santa Cruz*  | 2014  |
 
 ## skills
-
+|   |   |
+|---|---|
 | Programming:  |  Python, Java |
 | Data, toolkits, scripting:  | SQL, NLTK, Linux environments and shell scripting, HTML, R  |
 | Natural languages:  | English, German, French  |

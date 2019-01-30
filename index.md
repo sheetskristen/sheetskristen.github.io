@@ -24,10 +24,13 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | **Technical Analyst**,  *Ericsson Emodo (formerly Placecast)* <br> • Executed data analysis, requirement engineering, functionality testing and technical documentation tasks for internal and external stake-holders, including Fortune 100 enterprise partners. |2016 to 2017|
 |**Localization Project Coordinator**, *thebigword at Google* <br> • Managed end to end global localization production, including triaging functional and linguistic issues for multiple product lines including Gmail, Google Apps for Work, and Google Play across 68 languages. <br> • Trained new Localization Project Coordinators, managing ramp and development for 5 new team members.| 2014 to 2016|
 |**Undergraduate Research Assistant**, PI: Jaye Padgett, *University of California Santa Cruz* <br> • Labeled speech data for an investigation of palatalization and velarization in Irish. |2011 to 2012|
+
 ## projects 
+
 | Project  |  Year |
 |------|-------|
 | Classifying the Alt-Right (with Samuel Haymann), *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
+
 ## education
 
 | Degree  |  Year |

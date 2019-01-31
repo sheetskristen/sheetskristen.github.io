@@ -1,7 +1,7 @@
 
 ## about
 
-I am a first year M.S. student in [Computational Linguistics at Brandeis University](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html).
+I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University.
 
 I received my B.A. in Linguistics from UC Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a data startup specializing in location signal insights acquired by  Ericsson's Innovation Lab. 
 

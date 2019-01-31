@@ -3,7 +3,7 @@
 
 I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University.
 
-I received my B.A. in Linguistics from UC Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a data startup specializing in location signal insights acquired by  Ericsson's Innovation Lab. 
+I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. 
 
 You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAUF55bfVEADMqCX-u/view?usp=sharing). 
 

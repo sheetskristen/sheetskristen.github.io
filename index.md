@@ -3,7 +3,7 @@
 
 I am a first year M.S. student in [Computational Linguistics at Brandeis University](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html).
 
-I received my BA in Linguistics from UC Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a data startup specializing in location signal insights acquired by  Ericsson's Innovation Lab. 
+I received my B.A. in Linguistics from UC Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a data startup specializing in location signal insights acquired by  Ericsson's Innovation Lab. 
 
 You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAUF55bfVEADMqCX-u/view?usp=sharing). 
 

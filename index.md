@@ -12,7 +12,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | Type  |Skills   |
 |---------|------|
 | Programming:  |  Python, Java |
-| Data, toolkits, scripting:  | SQL, NLTK, Pandas, sci-kit learn, SciPy Linux environments and shell scripting, HTML, R  |
+| Data, toolkits, scripting:  | SQL, NLTK, Pandas, sci-kit learn, SciPy, Linux environments and shell scripting, HTML, R  |
 | Natural languages:  | English, German, French  |
 
 ## experience

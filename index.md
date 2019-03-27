@@ -31,7 +31,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 |------|-------|
 | Classifying the Alt-Right (with Samuel Haymann), *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
 | CoreLex Basic Types Classifier, *Brandeis University* <br> Using SemCor, created and trained a classifier to identify a word's CoreLex basic type for use in identifying trends in polysemy. | 2019 |
-| Temporal Annotation of Economic News(with Jingdi Shen and Keren Sun), *Brandeis University* <br> Adapted TimeML for use in a recent corpora of Economic News, specifically looking to related time expressions with events in relation. | 2019 |
+| Temporal Annotation of Economic News (with Jingdi Shen and Keren Sun), *Brandeis University* <br> Adapted TimeML for use in a recent corpus of economic news, specifically looking to related time expressions with events in relation. | 2019 |
 
 ## education
 

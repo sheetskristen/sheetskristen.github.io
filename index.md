@@ -29,7 +29,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 | Project  |  Year |
 |------|-------|
-| CoreLex Basic Types Classifier, *Brandeis University* <br>Using the SemCor corpus, created and trained a classifier to identify a word's basic semantic type, using WordNet and CoreLex, for use in identifying trends in polysemy. | ongoing |
+|Basic Semantic Types Classifier, *Brandeis University* <br>Using the SemCor corpus, created and trained a classifier to identify a word's basic semantic type, using WordNet and CoreLex, for use in identifying trends in polysemy. | ongoing |
 | Temporal Annotation of Economic News (with Jingdi Shen and Keren Sun), *Brandeis University* <br>Developed custom annotation guidelines for use in temporal relation annotation of recent corpus of economic news, specifically looking to relate time expressions with events and events in relation to one another. | ongoing |
 | Classifying the Alt-Right (with Samuel Haymann), *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
 

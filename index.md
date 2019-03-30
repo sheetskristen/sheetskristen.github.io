@@ -38,7 +38,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | Degree  |  Year |
 |------|-------|
 | **M.S. in Computational Linguistics**, *Brandeis University* <br> **Related courses:** Natural Language Annotation for Machine Learning; Fundamentals of Computational Linguistics; Natural Language Processing with Python; Modal, Temporal, and Spatial Logic for Language; Java Programming; Data Structures | 2020 (*expected*)|
-| **B.A. in Linguistics **, *University of California, Santa Cruz* <br> Awarded the 2014 *Dean's Undergraduate Research Award* <br> **Related courses:** Syntax V, Semantics II, Phonology II, Phonetic Analysis, Language Typology, Morphology | 2014  |
+| **B.A. in Linguistics**, *University of California, Santa Cruz* <br> Awarded the 2014 *Dean's Undergraduate Research Award* <br> **Related courses:** Syntax V, Semantics II, Phonology II, Phonetic Analysis, Language Typology, Morphology | 2014  |
 
 
 ## teaching assistantships

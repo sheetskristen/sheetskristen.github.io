@@ -29,16 +29,17 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 | Project  |  Year |
 |------|-------|
+| CoreLex Basic Types Classifier, *Brandeis University* <br>Using the SemCor corpus, created and trained a classifier to identify a word's basic semantic type, using WordNet and CoreLex, for use in identifying trends in polysemy. | ongoing |
+| Temporal Annotation of Economic News (with Jingdi Shen and Keren Sun), *Brandeis University* <br>Developed custom annotation guidelines for use in temporal relation annotation of recent corpus of economic news, specifically looking to relate time expressions with events and events in relation to one another. | ongoing |
 | Classifying the Alt-Right (with Samuel Haymann), *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
-| CoreLex Basic Types Classifier, *Brandeis University* <br> Using SemCor, created and trained a classifier to identify a word's CoreLex basic type for use in identifying trends in polysemy. | 2019 |
-| Temporal Annotation of Economic News (with Jingdi Shen and Keren Sun), *Brandeis University* <br> Adapted TimeML for use in a recent corpus of economic news, specifically looking to related time expressions with events in relation. | 2019 |
 
 ## education
 
 | Degree  |  Year |
 |------|-------|
-|  M.S. in Computational Linguistics, *Brandeis University* | 2020 (*expected*)   |
-| B.A. in Linguistics, *University of California, Santa Cruz*  | 2014  |
+| M.S. in Computational Linguistics, *Brandeis University* <br> Related courses: Natural Language Annotation for Machine Learning; Fundamentals of Computational Linguistics; Natural Language Processing with Python; Modal, Temporal, and Spatial Logic for Language; Java Programming; Data Structures | 2020 (*expected*)|
+| B.A. in Linguistics, *University of California, Santa Cruz* <br> Awarded the 2014 *Dean's Undergraduate Research Award* <br>
+Related courses: Syntax V, Semantics II, Phonology II, Phonetic Analysis, Language Typology, Morphology | 2014  |
 
 
 ## teaching assistantships

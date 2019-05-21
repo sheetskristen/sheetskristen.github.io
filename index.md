@@ -1,7 +1,7 @@
 
 ## about
 
-I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). 
+I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). For summer 2019, I'll be joining the team at [Basis Technology](https://www.basistech.com/), working on their [Rosette platform](https://www.basistech.com/text-analytics/rosette/). 
 
 I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. 
 
@@ -30,7 +30,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | Project  |  Year |
 |------|-------|
 |**Basic Semantic Types Classifier**, *Brandeis University* <br>Using the SemCor corpus, created and trained a classifier to identify a word's basic semantic type, using WordNet and CoreLex, for use in identifying trends in polysemy. | ongoing |
-|**Temporal Annotation of Economic News** (with Jingdi Shen and Keren Sun), *Brandeis University* <br>Developed custom annotation guidelines for use in temporal relation annotation of recent corpus of economic news, specifically looking to relate time expressions with events and events in relation to one another. | ongoing |
+|**Temporal Annotation of Economic News** (with Jingdi Shen and Keren Sun), *Brandeis University* <br>Developed custom annotation guidelines for use in temporal relation annotation of recent corpus of economic news, specifically looking to relate time expressions with events and events in relation to one another. | 2019 |
 | **Classifying the Alt-Right** (with Samuel Haymann), *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
 
 ## education

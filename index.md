@@ -1,9 +1,9 @@
 
 ## about
 
-I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). For summer 2019, I'll be joining the team at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. 
+I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). 
 
-I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Most recently, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. 
+I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Before starting at Brandeis, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. Between the first and second years of my master's, I interned at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. 
 
 You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAUF55bfVEADMqCX-u/view?usp=sharing). 
 
@@ -19,7 +19,8 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 | Role  | Year   |
 |---------|------|
-| **Research Assistant**, PI: James Pustejovsky, *Brandeis University* <br> • Researches correlations in semantic types for systematic polysemy within a Generative Lexicon framework. <br> • Designs human intellegence tasks to collect annotation data for use in training machine learning models. | 2018 to *present* |
+| **Research Assistant**, PI: James Pustejovsky, *Brandeis University* <br> • Researches correlations in semantic types for systematic polysemy within a Generative Lexicon framework.| 2018 to *present* |
+|**Linguistic Data Intern**, *Basis Technology* <br> • Created process and methodologies, as well as executed on a large comparision project in collaboration with the Research and Development team. <br> • Augmented and maintained a variety of custom data processing scripts for in-house use. <br> • Sourced novel multilingual data sets leveraging Wikipedia and various publically available resources. |Summer 2019|
 | **Solutions Engineer**,  *Ericsson Emodo (formerly Placecast)* <br> • Designed and automated data integration processes by writing and maintaining process controllers for data ingestion. <br> • Produced deliverables, ranging from data extraction and manipulation to technical integrations, for Product, Engineering, Sales, and Business Development teams. |2017 to 2018|
 | **Technical Analyst**,  *Ericsson Emodo (formerly Placecast)* <br> • Executed data analysis, requirement engineering, functionality testing and technical documentation tasks for internal and external stake-holders, including Fortune 100 enterprise partners. |2016 to 2017|
 |**Localization Project Coordinator**, *thebigword at Google* <br> • Managed end to end global localization production, including triaging functional and linguistic issues for multiple product lines including Gmail, Google Apps for Work, and Google Play across 68 languages. <br> • Trained new Localization Project Coordinators, managing ramp and development for 5 new team members.| 2014 to 2016|

@@ -1,7 +1,7 @@
 
 ## about
 
-I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and co-organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). I'm interested in computational and data-driven approaches in questions in linguistics.
+I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and co-organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). I'm interested in computational and data-driven approaches to questions in linguistics.
 
 I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Before starting at Brandeis, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. Between the first and second years of my masters, I interned at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. I'm passionate about ethics, accountability and equitity in techonology and frequently speak on this topic. 
 

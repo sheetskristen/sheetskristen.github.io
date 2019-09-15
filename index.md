@@ -1,9 +1,9 @@
 
 ## about
 
-I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). 
+I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and co-organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). I'm interested in computational and data-driven approaches in questions in linguistics.
 
-I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Before starting at Brandeis, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. Between the first and second years of my master's, I interned at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. 
+I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Before starting at Brandeis, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. Between the first and second years of my master's, I interned at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. I'm passionate about ethics, accountability and equitity in techonology and frequently speak on this topic. 
 
 You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAUF55bfVEADMqCX-u/view?usp=sharing). 
 
@@ -12,7 +12,7 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 | Type  |Skills   |
 |---------|------|
 | Programming:  |  Python, Java, Haskell |
-| Data, toolkits, scripting:  | SQL, NLTK, Pandas, sci-kit learn, SciPy, Linux environments and shell scripting, HTML, R  |
+| Data, toolkits, scripting:  | SQL, NLTK, Pandas, sci-kit learn, SciPy, Tensorflow, Keras, Linux environments and shell scripting, HTML, R  |
 | Natural languages:  | English, German, French  |
 
 ## experience
@@ -38,8 +38,9 @@ You can find my resume [here](https://drive.google.com/file/d/17WR2KPTMRGhDT7RAU
 
 | Degree  |  Year |
 |------|-------|
-| **M.S. in Computational Linguistics**, *Brandeis University* <br> **Related courses:** Natural Language Annotation for Machine Learning; Fundamentals of Computational Linguistics; Natural Language Processing with Python; Modal, Temporal, and Spatial Logic for Language; Java Programming; Data Structures; Research Methologies for Computational Linguistics; Natural Language Processing Systems; Computational Semantics; Statistical Methods for Natural Language Processing | 2020 (*expected*)|
+| **M.S. in Computational Linguistics**, *Brandeis University* <br> **Related courses:** Natural Language Annotation for Machine Learning; Fundamentals of Computational Linguistics; Natural Language Processing with Python; Modal, Temporal, and Spatial Logic for Language; Java Programming; Data Structures; Research Methodologies for Linguistics and Computational Linguistics; Natural Language Processing Systems; Computational Semantics; Statistical Methods for Natural Language Processing | 2020 (*expected*)|
 | **B.A. in Linguistics**, *University of California, Santa Cruz* <br> Awarded the 2014 *Dean's Undergraduate Research Award* <br> **Related courses:** Syntax V, Semantics II, Phonology II, Phonetic Analysis, Language Typology, Morphology | 2014  |
+|**Education abroad**, *Institut d'études politiques de Lyon* | 2012-2013|
 
 
 ## teaching assistantships

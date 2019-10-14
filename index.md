@@ -1,9 +1,11 @@
 
 ## about
 
-I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant at Brandeis University. I founded and co-organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). I'm interested in computational and data-driven approaches to questions in linguistics.
+I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant in the Linguistics and Computation Lab at Brandeis University. I founded and co-organize Brandeis's [Ethics in NLP reading group](https://ethicsatbrandeis.github.io/). I'm interested in computational and data-driven approaches to questions in linguistics.
 
-I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Before starting at Brandeis, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. Between the first and second years of my masters, I interned at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. I'm passionate about ethics, accountability and equitity in techonology and frequently speak on this topic. 
+I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the University of California, Santa Cruz. After graduating, I spent several years at Google, working on their localization team. Before starting at Brandeis, I had been working as an analyst and engineer at a [data startup](https://www.emodoinc.com/our-story/) specializing in location signal insights which was acquired by Ericsson's Innovation Lab. 
+
+Between the first and second years of my masters, I interned at [Basis Technology](https://www.basistech.com/), working on their [Rosette](https://www.basistech.com/text-analytics/rosette/) platform. I'm passionate about ethics, accountability and equitity in techonology and frequently speak on this topic.
 
 My resume as a PDF is available [here](https://sheetskristen.github.io/resume/index.html). 
 
@@ -25,7 +27,7 @@ My resume as a PDF is available [here](https://sheetskristen.github.io/resume/in
 |**Localization Project Coordinator**, *thebigword at Google* <br> • Managed end to end global localization production, including triaging functional and linguistic issues for multiple product lines including Gmail, Google Apps for Work, and Google Play across 68 languages. <br> • Trained new Localization Project Coordinators, managing ramp and development for 5 new team members.| 2014 to 2016|
 |**Undergraduate Research Assistant**, PI: Jaye Padgett, *University of California Santa Cruz* <br> • Labeled speech data for an investigation of palatalization and velarization in Irish. |2011 to 2012|
 
-## projects 
+## nlp projects 
 
 | Project  |  Year |
 |------|-------|

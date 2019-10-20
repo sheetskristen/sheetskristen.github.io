@@ -23,8 +23,8 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 | Discipline  |  Courses |
 |------|-------|
 |**Computational Linguistics** | Fundamentals of Computational Linguistics <br> Linguistic Annotation for Machine Learning <br> Statistical & Neural Methods for NLP <br> Computational Semantics <br> NLP Systems for Named Entity Recognition <br> Research Methodologies for Linguistics & Computational Linguistics <br> NLP with Python|
-|**Computer Science & Mathematics**|Python Programming <br> Programming in Java<br> Data Structures & Algorithms<br> Discrete Mathematics|
-|**Linguistics, Logic & Philosophy**|Advanced topics in Syntax <br> Advanced Semantics <br> Modal, Temporal & Spatial Logic for Language <br> Advanced Phonology <br> Phonetic Analysis <br> Psycholinguistics & Experimental Methods <br> Language & Cognition <br> Quantitative Methods for Linguists <br> Linguistic Typology <br> Morphology <br> The Philosophy of Language <br> Translation Theory <br> La phonétique française|
+|**Computer Science & Mathematics**|Python Programming <br> Programming in Java <br> Data Structures & Algorithms <br> Introduction to Relational Databases <br> Discrete Mathematics|
+|**Linguistics, Logic & Philosophy**|Advanced Topics in Syntax <br> Advanced Semantics <br> Modal, Temporal & Spatial Logic for Language <br> Advanced Phonology <br> Phonetic Analysis <br> Psycholinguistics & Experimental Methods <br> Language & Cognition <br> Quantitative Methods for Linguists <br> Linguistic Typology <br> Morphology <br> The Philosophy of Language <br> Translation Theory <br> La phonétique française|
 
 ## experience
 

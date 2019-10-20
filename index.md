@@ -16,7 +16,7 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 | **M.S. in Computational Linguistics** <br> *Brandeis University* | 2020 (*expected*)|
 | **B.A. in Linguistics** <br> *University of California, Santa Cruz* <br> Awarded the 2014 *Dean's Undergraduate Research Award* for excellence in research| 2014  |
 |**Education abroad** <br> *Institut d'études politiques de Lyon* | 2012-2013 |
-|*Linguistic Society of America's Summer Institute*|Summer 2015|
+|**Linguistic Society of America, Summer Institute** <br> *University of Chicago* |Summer 2015|
 
 ## coursework 
 

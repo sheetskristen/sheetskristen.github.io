@@ -13,10 +13,10 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 
 | Degree  |  Year |
 |------|-------|
-| **M.S. in Computational Linguistics** <br> *Brandeis University* | 2020 (*expected*)|
-| **B.A. in Linguistics** <br> *University of California, Santa Cruz* <br> Awarded the 2014 *Dean's Undergraduate Research Award* for excellence in research| 2014  |
-|**Education abroad** <br> *Institut d'études politiques de Lyon* | 2012-2013 |
-|**Linguistic Society of America, Summer Institute** <br> *University of Chicago* |Summer 2015|
+| **M.S. in Computational Linguistics** <br> *Brandeis University; Waltham, MA* | 2020 (*expected*)|
+| **B.A. in Linguistics** <br> *University of California, Santa Cruz; Santa Cruz, CA* <br> Awarded the 2014 *Dean's Undergraduate Research Award* for excellence in research| 2014  |
+|**Education abroad** <br> *Institut d'études politiques de Lyon; Lyon, France* | 2012-2013 |
+|**Linguistic Society of America, Summer Institute** <br> *University of Chicago; Chicago, IL* |Summer 2015|
 
 ## coursework 
 
@@ -30,12 +30,13 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 
 | Role  | Year   |
 |---------|------|
-| **Research Assistant** <br> PI: James Pustejovsky, *Brandeis University* <br> • Researches inherent polysemy using corpora and data-driven methodologies within a Generative Lexicon framework in the Lab for Linguistics and Computation.| 2018 to *present* |
-|**Linguistic Data Intern** <br> *Basis Technology* <br> • Created process and methodologies for in-house natural language processing tool evaluation, using open source tools including SpaCy and Kuromoji, and executed on a large comparison project in collaboration with the R&D team. <br> • Sourced novel multilingual data sets leveraging Wikipedia and various publically available resources. |Summer 2019|
-| **Solutions Engineer** <br>  *Ericsson Emodo (formerly Placecast)* <br> • Designed and automated data integration processes by writing and maintaining process controllers for data ingestion, primarily in Bash. <br> • Served as a technical expert to internal and external stakeholders for custom technical integrations, producing a wide range of deliverables including data extraction and analysis for Product, Engineering and Business Development teams. |2017 to 2018|
-| **Technical Analyst** <br>  *Ericsson Emodo (formerly Placecast)* <br> • Executed data analysis, requirement engineering, functionality testing and technical documentation tasks for internal and external stake-holders, including Fortune 100 enterprise partners. |2016 to 2017|
-|**Localization Project Coordinator** <br> *thebigword at Google* <br> • Managed end to end global localization production, including triaging functional and linguistic issues for multiple product lines including Gmail, Google Apps for Work, and Google Play across 68 languages. <br> • Trained new Localization Project Coordinators, managing ramp and development for 5 new team members.| 2014 to 2016|
-|**Undergraduate Research Assistant** <br> PI: Jaye Padgett, *University of California Santa Cruz* <br> • Labeled speech data for an investigation of palatalization and velarization in Irish. |2011 to 2012|
+| **Natural Language Processing Intern** <br> *Charles River Analytics; Cambridge, MA* <br> • Creating a custom entity and relationship extraction pipeline for use on scientific and technical papers, includes OCR pipeline, design and implementation of functional grammar systems for entity parsing and extraction.| 2020 to *present* |
+| **Research Assistant** <br> PI: Dr. James Pustejovsky, *Brandeis University; Waltham, MA* <br> • Researches inherent polysemy using corpora and data-driven methodologies within a Generative Lexicon framework in the Lab for Linguistics and Computation.| 2018 to *present* |
+|**Linguistic Data Intern** <br> *Basis Technology; Cambridge, MA* <br> • Created process and methodologies for in-house natural language processing tool evaluation, using open source tools including SpaCy and Kuromoji, and executed on a large comparison project in collaboration with the R&D team. <br> • Sourced novel multilingual data sets leveraging Wikipedia and various publically available resources. |Summer 2019|
+| **Solutions Engineer** <br>  *Ericsson Emodo (formerly Placecast); San Francisco, CA* <br> • Designed and automated data integration processes by writing and maintaining process controllers for data ingestion, primarily in Bash. <br> • Served as a technical expert to internal and external stakeholders for custom technical integrations, producing a wide range of deliverables including data extraction and analysis for Product, Engineering and Business Development teams. |2017 to 2018|
+| **Technical Analyst** <br>  *Ericsson Emodo (formerly Placecast); San Francisco, CA* <br> • Executed data analysis, requirement engineering, functionality testing and technical documentation tasks for internal and external stake-holders, including Fortune 100 enterprise partners. |2016 to 2017|
+|**Localization Project Coordinator** <br> *thebigword at Google; Mountain View, CA* <br> • Managed end to end global localization production, including triaging functional and linguistic issues for multiple product lines including Gmail, Google Apps for Work, and Google Play across 68 languages. <br> • Trained new Localization Project Coordinators, managing ramp and development for 5 new team members.| 2014 to 2016|
+|**Undergraduate Research Assistant** <br> PI: Dr. Jaye Padgett, *University of California Santa Cruz; Santa Cruz, CA* <br> • Labeled speech data for an investigation of palatalization and velarization in Irish. |2011 to 2012|
 
 
 ## nlp projects 
@@ -60,6 +61,6 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 
 | Course  | Term   |
 |---------|------|
-| **Linguistic Typology**, *Brandeis University* <br> Prof. Lotus Goldberg |  Spring 2019 |
-| **Syntactic Theory**,  *Brandeis University* <br> Prof. Lotus Goldberg | Fall 2018  |
-| **Syntactic Structures**, *University of California, Santa Cruz* <br> Prof. Maziar Toosarvandani| Spring 2014  |
+| **Linguistic Typology**, *Brandeis University; Waltham, MA* <br> Prof. Lotus Goldberg |  Spring 2019 |
+| **Syntactic Theory**,  *Brandeis University; Waltham, MA* <br> Prof. Lotus Goldberg | Fall 2018  |
+| **Syntactic Structures**, *University of California, Santa Cruz; Santa Cruz, CA* <br> Prof. Maziar Toosarvandani| Spring 2014  |

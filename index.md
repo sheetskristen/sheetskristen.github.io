@@ -1,5 +1,5 @@
 
-## About
+## about
 
 I am a graduate student in [Computational Linguistics](http://www.brandeis.edu/computer-science/computational-linguistics/graduate/masters/index.html) and research assistant in the Lab for Linguistics and Computation at Brandeis University. During the winter and spring of 2020, I'll be interning at [Charles River Analytics](https://www.cra.com/technical-expertise/natural-language-processing), working in their Computational Linguistics research group.
 
@@ -9,7 +9,7 @@ I received my B.A. in [Linguistics](https://linguistics.ucsc.edu/) from the Univ
 
 My resume is available [here](https://sheetskristen.github.io/resume/index.html). 
 
-## Experience
+## experience
 
 | Role  | Year   |
 |---------|------|
@@ -21,7 +21,7 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 |**Localization Project Coordinator** <br> *thebigword at Google; Mountain View, CA* <br> • Managed end to end global localization production, including triaging functional and linguistic issues for multiple product lines including Gmail, Google Apps for Work, and Google Play across 68 languages. <br> • Trained new Localization Project Coordinators, managing ramp and development for 5 new team members.| 2014 to 2016|
 |**Undergraduate Research Assistant** <br> PI: Dr. Jaye Padgett, *University of California Santa Cruz; Santa Cruz, CA* <br> • Labeled speech data for an investigation of palatalization and velarization in Irish. |2011 to 2012|
 
-## Education
+## education
 
 | Degree  |  Year |
 |------|-------|
@@ -30,7 +30,7 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 |**Education abroad** <br> *Institut d'études politiques de Lyon; Lyon, France* | 2012-2013 |
 |**Linguistic Society of America, Summer Institute** <br> *University of Chicago; Chicago, IL* |Summer 2015|
 
-## Coursework 
+## coursework 
 
 | Discipline  |  Courses |
 |------|-------|
@@ -38,7 +38,7 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 |**Computer Science & Mathematics**|Data Structures & Algorithms <br>  Discrete Mathematics <br> Information Retrieval <br> Introduction to Relational Databases <br> Programming in Java <br> Python Programming|
 |**Linguistics, Logic & Philosophy**|Advanced Phonology <br> Advanced Semantics <br> Advanced Topics in Syntax <br> Language & Cognition <br> Linguistic Typology <br> Modal, Temporal & Spatial Logic for Language <br> Morphology <br> The Philosophy of Language <br> Phonetic Analysis <br>La phonétique française  <br>  Psycholinguistics & Experimental Methods <br> Translation Theory <br> Quantitative Methods for Linguists|
 
-## NLP Projects 
+## nlp projects 
 
 | Project  |  Year |
 |------|-------|
@@ -48,7 +48,7 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 |**Temporal Annotation of Economic News** <br>with Jingdi Shen and Keren Sun, *Brandeis University* <br>Developed custom annotation guidelines for use in temporal relation annotation of recent corpus of economic news, specifically looking to relate time expressions with events and events in relation to one another. | 2019 |
 | **Classifying the Alt-Right** <br> with Samuel Haymann, *Brandeis University* <br> Created an annotated corpus of far-right and alt-right tweets and trained Naive Bayes classifier to identify far-right Twitter content. | 2018  |
 
-## Skills
+## skills
 
 | Type  |Skills   |
 |---------|------|
@@ -56,7 +56,7 @@ My resume is available [here](https://sheetskristen.github.io/resume/index.html)
 | Natural languages:  | English (native), German (fluent), French (proficient) |
 
 
-## Teaching Assistantships
+## teaching assistantships
 
 | Course  | Term   |
 |---------|------|
